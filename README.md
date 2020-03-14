@@ -1,6 +1,6 @@
 # themechange_flutter
 
-This code is useful when you want to change your application theme using Provider and ChangeNotifier package , you can make your own custom theme I made my own you can see in the given code ,
+This code is useful when you want to change your application theme using Provider and ChangeNotifier package , you can make your own custom theme I made my own you can see in the given code .
 
 ## Getting Started
 
